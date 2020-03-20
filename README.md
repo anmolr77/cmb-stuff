@@ -1,5 +1,5 @@
 # cmb-stuff
 
-this should add spaces
+contains stuff related to CMB Analysis
 
-does it?
+modules for 2pCF estimators (old and new versions) and generating CMB maps from power spectra
